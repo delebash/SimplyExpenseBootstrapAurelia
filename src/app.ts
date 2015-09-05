@@ -1,6 +1,7 @@
 import {Router} from 'aurelia-router';
 import 'bootstrap';
 import 'src/css/styles.css!';
+import 'src/css/style.css!';
 
 export class App {
   router:Router;
